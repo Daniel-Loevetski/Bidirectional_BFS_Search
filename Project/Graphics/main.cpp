@@ -1,10 +1,3 @@
-﻿
-// Submitters:
-//
-// Yuval Hoffman - 206202533
-// Daniel Loevetski - 209059120
-
-
 #include <stdlib.h>
 #include <time.h>
 #include <math.h>
