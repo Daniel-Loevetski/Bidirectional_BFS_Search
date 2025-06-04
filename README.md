@@ -4,13 +4,6 @@ A C++ OpenGL-based application that visualizes bidirectional breadth-first searc
 
 ---
 
-## Contributors
-
-- **Yuval Hoffman** – ID: 206202533  
-- **Daniel Loevetski** – ID: 209059120
-
----
-
 ## Description
 
 This project implements a graphical maze solver using bidirectional BFS. The maze is represented as a 2D grid, and the application visualizes the frontiers expanding from both the start and target positions until they meet. The path is then highlighted. The program uses OpenGL with FreeGLUT and GLEW for rendering and user interaction.
